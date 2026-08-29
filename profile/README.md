@@ -14,7 +14,7 @@ Lyrahcle provides a mission-console dashboard to monitor and defend space assets
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 Go · React · Vite · Tailwind · PostgreSQL · Redis · Docker · Kubernetes · SGP4
 
