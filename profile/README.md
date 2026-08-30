@@ -17,7 +17,6 @@ Lyrahcle is a space cybersecurity operations platform combining orbital awarenes
 - **Protocol intelligence** — AX.25, CCSDS, PUS, CSP decoding.
 - **Threat intelligence** — NVD-backed space CVE tracking mapped to assets.
 - **Operations** — RBAC, WebAuthn/TOTP auth, mTLS agent fleet management, audit logging, incident workflows.
-- **Built for compliance** — designed against IEEE P3536 (Space System Cybersecurity Design), with SBOMs, signed releases, and a public threat model.
 
 ## Model
 
