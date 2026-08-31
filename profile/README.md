@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo-mark.svg" alt="Lyrahcle" width="120" />
+  <img src="https://raw.githubusercontent.com/Lyrahcle/.github/main/assets/logo-mark.svg" alt="Lyrahcle" width="120" />
 </p>
 
 <h1 align="center">Lyrahcle</h1>
@@ -10,24 +10,13 @@
 
 ## What we build
 
-Lyrahcle is a space cybersecurity operations platform combining orbital awareness, RF/SDR telemetry, TM/TC decoding, threat intelligence, and incident response in one operator-focused product. It's built for defenders working across ground stations, satellite operators, and space programs who need visibility into RF and orbital threats the way SOC teams have visibility into networks.
+Lyrahcle brings orbital awareness, RF/SDR telemetry, TM/TC decoding, threat intelligence, and incident response into one operator-focused platform — for defenders working across ground stations, satellite operators, and space programs.
 
 - **Orbital awareness** — live satellite tracking, TLE sync, pass prediction.
-- **RF & signal assurance** — SDR ingestion, anomaly detection, replay/spoofing indicators, IQ forensic capture.
+- **RF & signal assurance** — SDR ingestion, anomaly detection, IQ forensic capture.
 - **Protocol intelligence** — AX.25, CCSDS, PUS, CSP decoding.
 - **Threat intelligence** — NVD-backed space CVE tracking mapped to assets.
-- **Operations** — RBAC, WebAuthn/TOTP auth, mTLS agent fleet management, audit logging, incident workflows.
-
-## Model
-
-Lyrahcle follows an **Open Core** model:
-
-| | |
-|---|---|
-| **Core** | AGPLv3 — backend, dashboard, SDR agent, CVE sync worker |
-| **Enterprise modules** | Proprietary — advanced RF, protocol decoders, reporting, integrations |
-| **Shared libraries** | MIT |
-| **Documentation** | CC BY-SA 4.0 |
+- **Operations** — RBAC, WebAuthn/TOTP, mTLS agent fleet management, audit logging.
 
 ## Status
 
@@ -35,7 +24,6 @@ Pre-v1.0, under active hardening.
 
 ## Contact
 
-- **Email:** manu.ciberseguridad@gmail.com
-- **Founder & CEO:** Manuel López-Serrano Fabuel
+manu.ciberseguridad@gmail.com
 
-<p align="center"><sub>Founder & CEO — Manuel López-Serrano Fabuel</sub></p>
+<p align="center"><sub>Founder & CEO — Manu López-Serrano Fabuel</sub></p>
