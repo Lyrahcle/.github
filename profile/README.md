@@ -18,10 +18,6 @@ Lyrahcle brings orbital awareness, RF/SDR telemetry, TM/TC decoding, threat inte
 - **Threat intelligence** — NVD-backed space CVE tracking mapped to assets.
 - **Operations** — RBAC, WebAuthn/TOTP, mTLS agent fleet management, audit logging.
 
-## Status
-
-Pre-v1.0, under active hardening.
-
 ## Contact
 
 manu.ciberseguridad@gmail.com
